@@ -3329,11 +3329,6 @@ video {
     line-height: 2.25rem;
   }
 
-  .sm\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
-  }
-
   .sm\:underline {
     text-decoration-line: underline;
   }
